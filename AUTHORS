@@ -1,3 +1,6 @@
+Felipe Cavani <fcavani dot gmail dot com>
+- Add exterm keyword to full_url variable
+
 Simon Vetter <simon dot vetter at gmx dot com>
 - ipv6 support
 - multiple bug fixes
