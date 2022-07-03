@@ -26,4 +26,11 @@ config.h
 config.log
 config.status
 libtool
+autom4te.cache
+stamp-h1
 
+# Bin
+mount_afp
+afpfsd
+afpgetstatus
+afpcmd
