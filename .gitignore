@@ -28,6 +28,7 @@ config.status
 libtool
 autom4te.cache
 stamp-h1
+*.tar.gz
 
 # Bin
 mount_afp
